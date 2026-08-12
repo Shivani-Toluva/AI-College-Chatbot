@@ -137,7 +137,7 @@ pip install -r requirements.txt
 ## Run Application
 
 ```bash id="9m63qa"
-python app.py
+python apps.py
 ```
 
 ---
