@@ -120,7 +120,7 @@ git clone https://github.com/Shivani-Toluva/AI-College-Chatbot
 ## Navigate to Project Folder
 
 ```bash id="q2a0x4"
-cd college-chatbot
+cd AI-College-Chatbot
 ```
 
 ## Install Dependencies
