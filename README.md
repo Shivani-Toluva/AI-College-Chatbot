@@ -100,12 +100,9 @@ This integration improves dynamic response handling and data management.
 ```bash id="ff0ytn"
 college-chatbot/
 │
-├── templates/
-├── static/
 ├── dataset/
 ├── database/
-├── app.py
-├── chatbot.py
+├── apps.py
 ├── requirements.txt
 └── README.md
 ```
@@ -117,7 +114,7 @@ college-chatbot/
 ## Clone Repository
 
 ```bash id="w1f3od"
-git clone https://github.com/yourusername/college-chatbot.git
+git clone https://github.com/Shivani-Toluva/AI-College-Chatbot
 ```
 
 ## Navigate to Project Folder
